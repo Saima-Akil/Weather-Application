@@ -12,4 +12,4 @@ A simple Weather Application that allows users to check the current weather cond
 - HTML
 - CSS
 - JavaScript
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- [OpenWeatherMap API]
